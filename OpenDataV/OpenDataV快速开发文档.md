@@ -3,6 +3,8 @@
 > ✨ 快速构建可视化组件｜基于 Vue3 + ECharts + TypeScript  
 > 🔗 官方仓库：[yu-bruce/openDataV: OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化🌈开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。 (github.com)](https://github.com/yu-bruce/openDataV)
 
+📌 示例：![演示](https://github.com/Lyles2163/ImageLibrary/raw/main/OpenDataV/test.gif)
+
 ---
 
 ## 🧩 新增组件流程
@@ -371,7 +373,7 @@ const { propValue } = useProp<PlainPieChartType>(props.component)
 ```
 
 🧠 工作原理流程图：  
-![属性处理流程](https://github.com/Lyles2163/ImageLibrary/raw/main/OpenDataV/AttributeProcess.png)
+![ ](https://github.com/Lyles2163/ImageLibrary/raw/main/OpenDataV/AttributeProcess.png)
 
 🔍 **三大优点**：
 
