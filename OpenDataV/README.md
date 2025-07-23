@@ -235,7 +235,6 @@ const getOption = () => ({
     subtext: propValue.title.subText,
     left: propValue.title.position,
     textStyle: {
-      color: propValue.font.color,
       fontSize: propValue.title.textFontSize
     }
   },
